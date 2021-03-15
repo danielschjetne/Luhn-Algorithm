@@ -5,7 +5,7 @@ The Luhn algorithm or Luhn formula, also known as "modulus 10" is a checksum for
 
 The user will be able to input a credit card number, and the program will return if it's valid or not.
 
-The formula checks the sum of the digits in the card number and checks wheter the sum matches the expected result, or if there is an error in the number sequence. IF the total modulus 10 equals zero, the number is valid according to this algorithm.
+The formula checks the sum of the digits in the card number and checks wheter the sum matches the expected result, or if there is an error in the number sequence. If the total modulus 10 equals zero, the number is valid according to the algorithm.
 
 Steps:
 - From the last digit, excluding the check digit, and moving left, double the value of every second digit.
