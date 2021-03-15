@@ -1,5 +1,5 @@
 # Luhn-Algorithm
-A simple project writing the Luhn-algorithm in Python, mainly used for validating credit card numbers.
+A simple project on the Luhn-algorithm in Python, mainly used for validating credit card numbers.
 
 The Luhn algorithm or Luhn formula, also known as "modulus 10" is a checksum formula used to validate a variety of identification numbers. In this case we will use Python to validate credit card numbers with the algorithm.
 
